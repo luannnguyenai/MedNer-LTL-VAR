@@ -1,0 +1,187 @@
+[
+  {
+    "text": "Đái tháo đường típ 1 có biến chứng viêm thần kinh ngoại biên",
+    "position": [
+      48,
+      108
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Viêm gan virus C và B",
+    "position": [
+      115,
+      136
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử phẫu thuật / thủ thuật",
+    "position": [
+      237,
+      267
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Phẫu thuật thay toàn bộ khớp háng phải",
+    "position": [
+      270,
+      308
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc đang dùng trước khi nhập viện",
+    "position": [
+      314,
+      349
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Dùngmethadonekéo dài",
+    "position": [
+      356,
+      376
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "lasix",
+    "position": [
+      383,
+      388
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "202991"
+    ]
+  },
+  {
+    "text": "Lasix",
+    "position": [
+      604,
+      609
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "202991"
+    ]
+  },
+  {
+    "text": "lasix",
+    "position": [
+      664,
+      669
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "202991"
+    ]
+  },
+  {
+    "text": "xuất hiện phù chân",
+    "position": [
+      689,
+      707
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "chưa xử trí gì",
+    "position": [
+      748,
+      762
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân tỉnh",
+    "position": [
+      804,
+      818
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiếp xúc được",
+    "position": [
+      820,
+      833
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phù 2 chân nặng",
+    "position": [
+      834,
+      849
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Loét 2 bàn chân",
+    "position": [
+      851,
+      866
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bàn chân nhiễm trùng",
+    "position": [
+      943,
+      963
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

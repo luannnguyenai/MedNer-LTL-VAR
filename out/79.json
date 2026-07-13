@@ -1,0 +1,26 @@
+[
+  {
+    "text": "bàn chân vẹo bẩm sinh",
+    "position": [
+      39,
+      60
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử phẫu thuật / thủ thuật",
+    "position": [
+      65,
+      95
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  }
+]

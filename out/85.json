@@ -1,0 +1,108 @@
+[
+  {
+    "text": "Đái tháo đường type II",
+    "position": [
+      57,
+      79
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "suy tim",
+    "position": [
+      154,
+      161
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I50.0",
+      "I50.1",
+      "I50.9"
+    ]
+  },
+  {
+    "text": "bệnh mạch máu ngoại biên",
+    "position": [
+      168,
+      192
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bệnh phổi tắc nghẽn mạn tính",
+    "position": [
+      199,
+      227
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "J44",
+      "J44.8",
+      "J44.9"
+    ]
+  },
+  {
+    "text": "Tiền sử phẫu thuật / thủ thuật",
+    "position": [
+      402,
+      432
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật bắc cầu nối động mạch vành",
+    "position": [
+      440,
+      477
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật cắt bao quy đầu",
+    "position": [
+      484,
+      510
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "thở không xâm nhập BiPAP",
+    "position": [
+      536,
+      560
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  }
+]

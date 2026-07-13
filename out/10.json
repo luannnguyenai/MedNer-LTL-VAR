@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Đờm",
+    "position": [
+      107,
+      110
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đôi khi đau bụng quặn",
+    "position": [
+      118,
+      139
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [
+      142,
+      151
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đôi khi đi ngoài ra máu",
+    "position": [
+      154,
+      177
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không tăng cân nhiều",
+    "position": [
+      180,
+      200
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm hôm nay cũng rất khó khăn",
+    "position": [
+      402,
+      435
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh thiết (trước đây)",
+    "position": [
+      553,
+      575
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm hôm nay",
+    "position": [
+      578,
+      593
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh thiết chỉ cho thấy một u tuyến",
+    "position": [
+      690,
+      725
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "text": "vị trí không xác định",
+    "position": [
+      114,
+      135
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "loại trừ khả năng nhồi máu cơ tim",
+    "position": [
+      373,
+      406
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đã khám với bác sĩ tim mạch tại",
+    "position": [
+      488,
+      519
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "được giới thiệu để gặp bác sĩ",
+    "position": [
+      579,
+      608
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dobutamine",
+    "position": [
+      649,
+      659
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "3616"
+    ]
+  },
+  {
+    "text": "thông tim trái không ghi nhận hẹp gây hạn chế dòng chảy",
+    "position": [
+      777,
+      832
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chung tốt kể từ khi chụp tim trái",
+    "position": [
+      901,
+      934
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      986,
+      994
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "khó thở khi nằm",
+    "position": [
+      996,
+      1011
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở khi ngủ hoặc ngất xỉu",
+    "position": [
+      1013,
+      1042
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm tim cho thấy hẹp van động mạch chủ nghiêm trọng",
+    "position": [
+      1191,
+      1246
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dobutamine",
+    "position": [
+      1274,
+      1284
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "3616"
+    ]
+  },
+  {
+    "text": "Thủ thuật đã thực hiện",
+    "position": [
+      1333,
+      1355
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp tim mạch",
+    "position": [
+      1362,
+      1375
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "LHC",
+    "position": [
+      1382,
+      1385
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hẹp van động mạch chủ nghiêm trọng",
+    "position": [
+      1423,
+      1457
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "LHC không ghi nhận hẹp gây hạn chế dòng chảy",
+    "position": [
+      1464,
+      1508
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

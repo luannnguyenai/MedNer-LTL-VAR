@@ -1,0 +1,56 @@
+[
+  {
+    "text": "xơ gan do rượu",
+    "position": [
+      61,
+      75
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "K70.3"
+    ]
+  },
+  {
+    "text": "hội chứng não gan",
+    "position": [
+      191,
+      208
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đến bệnh viện  với hội chứng não gan",
+    "position": [
+      251,
+      287
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ý thức suy giảm",
+    "position": [
+      368,
+      383
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân nhập viện vào ngày w tiến triển hội chứng não gan",
+    "position": [
+      390,
+      449
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "text": "Bệnh lý mãn tính",
+    "position": [
+      85,
+      101
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "trầm cảm và  rối loạn lo âu",
+    "position": [
+      108,
+      135
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bạn bè trêu chọc",
+    "position": [
+      296,
+      312
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "buồn chán",
+    "position": [
+      314,
+      323
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "uống nhiều rượu",
+    "position": [
+      325,
+      340
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "hút cần sa",
+    "position": [
+      341,
+      351
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Sau đó lái xe đến một cây cầu",
+    "position": [
+      353,
+      382
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhảy từ trên cầu xuống  bệnh nhân nhảy cầu tự tử",
+    "position": [
+      384,
+      432
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sau đó tổn thương chi dưới",
+    "position": [
+      434,
+      460
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khi đến khoa Cấp cứu",
+    "position": [
+      483,
+      503
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân tỉnh",
+    "position": [
+      505,
+      519
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiếp xúc tốt",
+    "position": [
+      521,
+      533
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vancomycin",
+    "position": [
+      847,
+      857
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "11124"
+    ]
+  },
+  {
+    "text": "Dùng kháng sinh tĩnh mạch",
+    "position": [
+      938,
+      963
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

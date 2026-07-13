@@ -1,0 +1,310 @@
+[
+  {
+    "text": "Ung thư vú di căn ER+/HER2−",
+    "position": [
+      49,
+      76
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đang dùng thuốc  weekly taxol",
+    "position": [
+      81,
+      110
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "fulvestrant",
+    "position": [
+      114,
+      125
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "282357"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      318,
+      326
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn kèm theo đi ngoài phân lỏng",
+    "position": [
+      328,
+      359
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "toàn nước",
+    "position": [
+      361,
+      370
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không nhầy máu",
+    "position": [
+      373,
+      387
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "VAS 7/10 kèm theo buồn nôn",
+    "position": [
+      433,
+      459
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "nôn nhiều",
+    "position": [
+      461,
+      470
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "chưa xử trí thuốc gì",
+    "position": [
+      472,
+      492
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "lúc vào",
+    "position": [
+      515,
+      522
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Người bệnh tỉnh",
+    "position": [
+      524,
+      539
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Da niêm mạc hồngi",
+    "position": [
+      540,
+      557
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau bụng hạ sườn phải",
+    "position": [
+      559,
+      580
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Buồn nôn",
+    "position": [
+      582,
+      590
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn ra thức ăn và dịch dạ dày",
+    "position": [
+      592,
+      621
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không có máu \nKhám thấy\nHuyết áp",
+    "position": [
+      623,
+      655
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "130",
+    "position": [
+      656,
+      659
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mmHg\nMạch",
+    "position": [
+      663,
+      672
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "93",
+    "position": [
+      674,
+      676
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "l/p\nNhiệt độ",
+    "position": [
+      677,
+      689
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "36.3",
+    "position": [
+      692,
+      696
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "độ C\nNhịp thở",
+    "position": [
+      697,
+      710
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14",
+    "position": [
+      712,
+      714
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "l/p \nSPO2",
+    "position": [
+      715,
+      724
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "99 %",
+    "position": [
+      726,
+      730
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điều trị tại bệnh viện",
+    "position": [
+      734,
+      756
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "compazine",
+    "position": [
+      764,
+      773
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "203546"
+    ]
+  },
+  {
+    "text": "lorazepam",
+    "position": [
+      829,
+      838
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "6470"
+    ]
+  }
+]

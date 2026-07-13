@@ -1,0 +1,52 @@
+[
+  {
+    "text": "vết thương thấu bụng giữa bên phải",
+    "position": [
+      37,
+      71
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Triệu chứng khi đến",
+    "position": [
+      72,
+      91
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vết thương thấu bụng giữa bên phải",
+    "position": [
+      95,
+      129
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngay trước khi nhập viện: ổn định về mặt huyết động khi đến",
+    "position": [
+      141,
+      200
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội soi ổ bụng chẩn đoán",
+    "position": [
+      438,
+      462
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "text": "tiền sử tăng huyết áp",
+    "position": [
+      45,
+      66
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đau lưng",
+    "position": [
+      174,
+      182
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Cận lâm sàng  trước khi nhập viện",
+    "position": [
+      187,
+      220
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Định lượng IgA tăng cao trong bệnh đa u tuỷ xương",
+    "position": [
+      325,
+      374
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Đa u tủy xương",
+    "position": [
+      485,
+      499
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "text": "Khởi phát chuyển dạBệnh sử: Thai 41 tuần",
+    "position": [
+      17,
+      57
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhập viện để khởi phát chuyển dạ",
+    "position": [
+      59,
+      91
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hiện có cơn co tử cung",
+    "position": [
+      93,
+      115
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thai máy tốt (FM +)",
+    "position": [
+      118,
+      137
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chưa  ra huyết âm đạo (VB -)",
+    "position": [
+      140,
+      168
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chưa vỡ ối/rỉ ối (LOF -)",
+    "position": [
+      170,
+      194
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  }
+]

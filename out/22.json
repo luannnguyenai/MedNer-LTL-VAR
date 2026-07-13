@@ -1,0 +1,52 @@
+[
+  {
+    "text": "bệnh mạch máu",
+    "position": [
+      34,
+      47
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I67",
+      "I28",
+      "I73"
+    ]
+  },
+  {
+    "text": "aspirin 325mg",
+    "position": [
+      75,
+      88
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "317300"
+    ]
+  },
+  {
+    "text": "Không có rối loạn thần kinh",
+    "position": [
+      168,
+      195
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp ct sọ não không thuốc cản quang",
+    "position": [
+      342,
+      378
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

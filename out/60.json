@@ -1,0 +1,64 @@
+[
+  {
+    "text": "Trào ngược dạ dày thực quản ngày càng tăng",
+    "position": [
+      149,
+      191
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "có thời điểm thuyên giảm",
+    "position": [
+      277,
+      301
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ảnh hưởng đến sinh hoạt hằng ngày",
+    "position": [
+      411,
+      444
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân nhập viện để được thăm khám và điều trị",
+    "position": [
+      446,
+      495
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "triệu chứng trào ngược",
+    "position": [
+      528,
+      550
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "một thoát vị cạnh thực quản khá lớn",
+    "position": [
+      690,
+      725
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

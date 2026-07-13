@@ -1,0 +1,32 @@
+[
+  {
+    "text": "Tại thời điểm nhập viện",
+    "position": [
+      486,
+      509
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở hoặc khàn tiếng",
+    "position": [
+      578,
+      601
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả khám tại bệnh viện",
+    "position": [
+      704,
+      730
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

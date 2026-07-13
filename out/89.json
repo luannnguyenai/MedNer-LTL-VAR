@@ -1,0 +1,258 @@
+[
+  {
+    "text": "đặt stent ống tuỵ gần",
+    "position": [
+      88,
+      109
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật cắt bỏ khối u thần kinh nội tiết ở thân tụy",
+    "position": [
+      112,
+      166
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc đang điều trị theo đơn",
+    "position": [
+      171,
+      199
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "octreotide",
+    "position": [
+      206,
+      216
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "7617"
+    ]
+  },
+  {
+    "text": "flagyl",
+    "position": [
+      223,
+      229
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "202866"
+    ]
+  },
+  {
+    "text": "chăm sóc vết thương tại chỗ",
+    "position": [
+      231,
+      258
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "nhịn ăn đường miệng",
+    "position": [
+      260,
+      279
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "dinh dưỡng tĩnh mạch",
+    "position": [
+      281,
+      301
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Tuột sonde dẫn lưu ổ bụng",
+    "position": [
+      346,
+      371
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đặt stent vào ống dẫn tụy gần",
+    "position": [
+      570,
+      599
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không làm giảm đáng kể lượng dịch rò)",
+    "position": [
+      601,
+      638
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hậu phẫu  bệnh nhân bị nhiễm Clostridioides difficile",
+    "position": [
+      642,
+      695
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "flagyl",
+    "position": [
+      742,
+      748
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "202866"
+    ]
+  },
+  {
+    "text": "chăm sóc vết thương tại chỗ",
+    "position": [
+      750,
+      777
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sau 23 ngày điều trị thì xuất viện",
+    "position": [
+      779,
+      813
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ống dẫn chỉ bị tuột ra khoảng 2",
+    "position": [
+      1008,
+      1039
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ống dẫn lưu bị tuột ra 15",
+    "position": [
+      1184,
+      1209
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhịn ăn uống đường miệng",
+    "position": [
+      1216,
+      1240
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nuôi dưỡng đường tĩnh mạch",
+    "position": [
+      1242,
+      1268
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Catheter PICC được chuyển sang tay trái",
+    "position": [
+      1270,
+      1309
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không phát hiện huyết khối tĩnh mạch sâu",
+    "position": [
+      1337,
+      1377
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thủ thuật đã thực hiện",
+    "position": [
+      1383,
+      1405
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "PICC được chuyển sang LUE",
+    "position": [
+      1412,
+      1437
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

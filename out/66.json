@@ -1,0 +1,342 @@
+[
+  {
+    "text": "Các bệnh mãn tính",
+    "position": [
+      30,
+      47
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Tiểu đường loại 1 đái tháo đường",
+    "position": [
+      54,
+      86
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      93,
+      106
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "P29.2",
+      "I15",
+      "I15.8"
+    ]
+  },
+  {
+    "text": "tăng lipid máu",
+    "position": [
+      113,
+      127
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "không đặc hiệu",
+    "position": [
+      129,
+      143
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "béo phì",
+    "position": [
+      150,
+      157
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "vị trí không xác định",
+    "position": [
+      237,
+      258
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Lịch sử bệnh hiện tại",
+    "position": [
+      264,
+      285
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bàn chân phải",
+    "position": [
+      307,
+      324
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bàn chân phải",
+    "position": [
+      360,
+      377
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất thăng bằng khi đi lại",
+    "position": [
+      384,
+      409
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xuất viện về nhà ngày hôm qua",
+    "position": [
+      509,
+      538
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ertapenem",
+    "position": [
+      587,
+      596
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "325642"
+    ]
+  },
+  {
+    "text": "ngay trước khi nhập viện",
+    "position": [
+      612,
+      636
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bàn chân phải đã hoàn toàn hết",
+    "position": [
+      643,
+      677
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cảm thấy tốt hơn",
+    "position": [
+      684,
+      700
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vẫn cảm thấy không vững khi đứng",
+    "position": [
+      707,
+      739
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm xét nghiệm",
+    "position": [
+      772,
+      801
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu cầu (platelets) 478",
+    "position": [
+      839,
+      863
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hco3- (bicarbonate) 20",
+    "position": [
+      870,
+      892
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ag (anion gap) 13",
+    "position": [
+      899,
+      916
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "creatinine",
+    "position": [
+      927,
+      937
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2913"
+    ]
+  },
+  {
+    "text": "creatinine",
+    "position": [
+      943,
+      953
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2913"
+    ]
+  },
+  {
+    "text": "glucose (đường huyết) 316",
+    "position": [
+      961,
+      986
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lactate",
+    "position": [
+      993,
+      1000
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "114202"
+    ]
+  },
+  {
+    "text": "a (urinalysis - tổng phân tích nước tiểu)",
+    "position": [
+      1034,
+      1075
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12",
+    "position": [
+      1077,
+      1079
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không vi khuẩn",
+    "position": [
+      1090,
+      1104
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hồng cầu",
+    "position": [
+      1108,
+      1116
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "âm tính nitrite",
+    "position": [
+      1118,
+      1133
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "không có quá trình bệnh lý tim phổi cấp tính",
+    "position": [
+      1235,
+      1279
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

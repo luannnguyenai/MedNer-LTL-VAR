@@ -1,0 +1,46 @@
+[
+  {
+    "text": "nam giới khỏe mạnh",
+    "position": [
+      48,
+      66
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "không có bệnh lý khác",
+    "position": [
+      68,
+      89
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "chấn thương gãy xương sườn trái",
+    "position": [
+      304,
+      335
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "và 11",
+    "position": [
+      493,
+      498
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

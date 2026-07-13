@@ -1,0 +1,96 @@
+[
+  {
+    "text": "đái tháo đường",
+    "position": [
+      48,
+      62
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "O24",
+      "E14",
+      "E10"
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      69,
+      82
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "P29.2",
+      "I15",
+      "I15.8"
+    ]
+  },
+  {
+    "text": "đái tháo đường",
+    "position": [
+      209,
+      223
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "O24",
+      "E14",
+      "E10"
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      230,
+      243
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "P29.2",
+      "I15",
+      "I15.8"
+    ]
+  },
+  {
+    "text": "Thủ thuật điện chọn",
+    "position": [
+      292,
+      311
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "triệu chứng liên quan đến tai biến mạch máu não từ vùng này",
+    "position": [
+      338,
+      397
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Trong quá trình chụp mạch máu",
+    "position": [
+      529,
+      558
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

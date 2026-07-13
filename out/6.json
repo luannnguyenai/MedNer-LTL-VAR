@@ -1,0 +1,56 @@
+[
+  {
+    "text": "Bệnh nhân có tiền sử Nghẽn tắc và hẹp động mạch cảnh",
+    "position": [
+      29,
+      81
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "định kỳ chuyên khoa tim mạch - mạch máu",
+    "position": [
+      97,
+      136
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tỷ số PSV/EDV > 7",
+    "position": [
+      367,
+      384
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vận tốc dòng chảy tăng rõ",
+    "position": [
+      386,
+      411
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngay trước khi nhập viện",
+    "position": [
+      427,
+      451
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

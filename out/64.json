@@ -1,0 +1,290 @@
+[
+  {
+    "text": "Các đợt tương tự trước đây",
+    "position": [
+      21,
+      47
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Nhập viện trước đây bắt đầu bằng ciproflagyl",
+    "position": [
+      128,
+      172
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "percocet",
+    "position": [
+      273,
+      281
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "42844"
+    ]
+  },
+  {
+    "text": "Bệnh lý mãn tính",
+    "position": [
+      393,
+      409
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "không thủng hay áp xe",
+    "position": [
+      480,
+      501
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "percocet",
+    "position": [
+      582,
+      590
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "42844"
+    ]
+  },
+  {
+    "text": "đổ mồ hôi qua đêm",
+    "position": [
+      919,
+      936
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không ghi nhận sốt",
+    "position": [
+      943,
+      961
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không chóng mặt",
+    "position": [
+      968,
+      983
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không hoa mắt",
+    "position": [
+      990,
+      1003
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đi tiêu bình thường",
+    "position": [
+      1010,
+      1029
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không ra máu",
+    "position": [
+      1031,
+      1043
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vùng bụng dưới (đau RLQLLQ)",
+    "position": [
+      1083,
+      1110
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tồi tệ hơn\n    - Thời gian",
+    "position": [
+      1138,
+      1164
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1",
+    "position": [
+      1166,
+      1167
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các triệu chứng liên quan: đổ mồ hôi",
+    "position": [
+      1179,
+      1215
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sự kiện trước khi nhập viện",
+    "position": [
+      1220,
+      1247
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sử dụng ciproflagyl trong lần nhập viện trước",
+    "position": [
+      1254,
+      1299
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "percocet",
+    "position": [
+      1400,
+      1408
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "42844"
+    ]
+  },
+  {
+    "text": "Không ghi nhận sốt",
+    "position": [
+      1415,
+      1433
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không chóng mặt",
+    "position": [
+      1440,
+      1455
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không hoa mắt",
+    "position": [
+      1462,
+      1475
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đi tiêu bình thường",
+    "position": [
+      1482,
+      1501
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không ra máu",
+    "position": [
+      1503,
+      1515
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dấu hiệu lâm sàng",
+    "position": [
+      1548,
+      1565
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đổ mồ hôi qua đêm",
+    "position": [
+      1572,
+      1589
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không ghi nhận sốt",
+    "position": [
+      1596,
+      1614
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

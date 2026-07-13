@@ -1,0 +1,34 @@
+[
+  {
+    "text": "đau vùng hạ sườn phải",
+    "position": [
+      156,
+      177
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm cho thấy sỏi mật",
+    "position": [
+      220,
+      244
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả chẩn đoán hình ảnh: siêu âm cho thấy sỏi mật",
+    "position": [
+      361,
+      413
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  }
+]

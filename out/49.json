@@ -1,0 +1,256 @@
+[
+  {
+    "text": "Khối sa âm đạo gây khó chịu",
+    "position": [
+      53,
+      80
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "được bác sĩ giới thiệu khám chuyên khoa",
+    "position": [
+      82,
+      121
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hiện bệnh nhân thường xuyên cảm thấy  căng tức vùng âm đạo",
+    "position": [
+      248,
+      306
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sờ thấy khối sa tại âm hộ",
+    "position": [
+      308,
+      333
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kèm theo đó",
+    "position": [
+      335,
+      346
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân có triệu chứng tiểu buốt",
+    "position": [
+      348,
+      382
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân có  táo bón",
+    "position": [
+      483,
+      504
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khô âm đạo",
+    "position": [
+      506,
+      516
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cảm giác căng tức vùng âm đạo",
+    "position": [
+      635,
+      664
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiểu không tự chủ",
+    "position": [
+      676,
+      693
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xuất hiện từng đợt",
+    "position": [
+      695,
+      713
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Khô âm đạo",
+    "position": [
+      723,
+      733
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau khi giao hợp",
+    "position": [
+      735,
+      751
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ra huyết âm đạo lượng ít",
+    "position": [
+      753,
+      777
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "từng đợt",
+    "position": [
+      779,
+      787
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân được khám  niệu sản khoa khoảng năm trước",
+    "position": [
+      826,
+      877
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vòng pessary bị rơi ra",
+    "position": [
+      934,
+      956
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không tái khám để đánh giá thêm",
+    "position": [
+      960,
+      991
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không sử dụng băng vệ tinh",
+    "position": [
+      1102,
+      1128
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không đau khi đi tiểu",
+    "position": [
+      1132,
+      1153
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phủ nhận tiểu máu",
+    "position": [
+      1157,
+      1174
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không nhiễm khuẩn đường tiết niệu",
+    "position": [
+      1178,
+      1211
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vị trí không xác định",
+    "position": [
+      1213,
+      1234
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "không sỏi thận",
+    "position": [
+      1238,
+      1252
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không viêm bể thận",
+    "position": [
+      1255,
+      1273
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

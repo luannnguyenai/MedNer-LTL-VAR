@@ -1,0 +1,116 @@
+[
+  {
+    "text": "Tiền sử phẫu thuật / thủ thuật",
+    "position": [
+      30,
+      60
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "cắt bỏ ống dẫn mật chủ",
+    "position": [
+      67,
+      89
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "cắt bỏ phân đoạn bên trái gan",
+    "position": [
+      96,
+      125
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Đã can thiệp chụp đường mật",
+    "position": [
+      224,
+      251
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đặt 3 stent đường mật lưu dài hạn",
+    "position": [
+      253,
+      286
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "run rẩy kèm sốt kèm theo sốt",
+    "position": [
+      401,
+      429
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Augmentin",
+    "position": [
+      630,
+      639
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "151392"
+    ]
+  },
+  {
+    "text": "ổn định ở nhà cho đến đêm trước khi nhập viện",
+    "position": [
+      683,
+      728
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả chụp chẩn đoán hình ảnh",
+    "position": [
+      760,
+      791
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ba stent mật kim loại đã được đặt",
+    "position": [
+      866,
+      899
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "text": "béo phì",
+    "position": [
+      52,
+      59
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đến khám vì sau cân sau phẫu thuật",
+    "position": [
+      107,
+      141
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

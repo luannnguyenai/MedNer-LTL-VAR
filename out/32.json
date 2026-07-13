@@ -1,0 +1,428 @@
+[
+  {
+    "text": "Tiền sử bệnh nội",
+    "position": [
+      3,
+      19
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ho Bệnh bạch cầu dòng tủy mãn tính",
+    "position": [
+      43,
+      77
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [
+      80,
+      93
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "P29.2",
+      "I15",
+      "I15.8"
+    ]
+  },
+  {
+    "text": "Đái tháo đường típ 2",
+    "position": [
+      96,
+      116
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E11",
+      "E11.0",
+      "E11.2†"
+    ]
+  },
+  {
+    "text": "ho Rung nhĩ kèm đáp ứng thất nhanh",
+    "position": [
+      119,
+      153
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bệnh thận mạn",
+    "position": [
+      156,
+      169
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "N18",
+      "N18.1",
+      "N18.2"
+    ]
+  },
+  {
+    "text": "không đặc hiệu",
+    "position": [
+      171,
+      185
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Khó thở tăng dần",
+    "position": [
+      222,
+      238
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khoảng 5 ngày trước nhập viện",
+    "position": [
+      283,
+      312
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân xuất hiện cảm giác nghẹt ngực kèm sốt",
+    "position": [
+      314,
+      361
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiệt độ cao nhất khoảng 38",
+    "position": [
+      363,
+      390
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Trong vài ngày gần đây",
+    "position": [
+      460,
+      482
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân xuất hiện khó thở tăng dần",
+    "position": [
+      484,
+      520
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chủ yếu khi gắng sức",
+    "position": [
+      522,
+      542
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân có tiền sử nhập viện gần đây vì sốt và đau vai",
+    "position": [
+      598,
+      654
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Trong đợt điều trị đó",
+    "position": [
+      657,
+      678
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân diễn tiến suy hô hấp kèm tăng huyết áp",
+    "position": [
+      680,
+      728
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Trong thời gian nằm viện",
+    "position": [
+      940,
+      964
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sau xuất viện",
+    "position": [
+      1243,
+      1256
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân được chuyển đến trung tâm phục hồi chức năng",
+    "position": [
+      1258,
+      1312
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đi lại bằng khung tập đi",
+    "position": [
+      1314,
+      1338
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sáng ngày nhập viện",
+    "position": [
+      1341,
+      1360
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân xuất hiện khò khè và ho tăng lên",
+    "position": [
+      1362,
+      1404
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tại trung tâm phục hồi chức năng",
+    "position": [
+      1407,
+      1439
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "albuterol",
+    "position": [
+      1465,
+      1474
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "435"
+    ]
+  },
+  {
+    "text": "guaifenesin",
+    "position": [
+      1487,
+      1498
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "5032"
+    ]
+  },
+  {
+    "text": "furosemide 40 mg",
+    "position": [
+      1502,
+      1518
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "315971"
+    ]
+  },
+  {
+    "text": "Gia đình lo ngại tình trạng bệnh nên yêu cầu chuyển viện",
+    "position": [
+      1566,
+      1622
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Khó thở tăng dần",
+    "position": [
+      1651,
+      1667
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chủ yếu khi gắng sức",
+    "position": [
+      1669,
+      1689
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nghẹt ngực kéo dài",
+    "position": [
+      1691,
+      1709
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khò khè",
+    "position": [
+      1714,
+      1721
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử sốt 38",
+    "position": [
+      1767,
+      1781
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngay trước nhập viện",
+    "position": [
+      1827,
+      1847
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khi được đánh giá tại khoa Hồi sức",
+    "position": [
+      1926,
+      1960
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không ghi nhận khó thở rõ",
+    "position": [
+      2033,
+      2058
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực hoặc ho nhiều",
+    "position": [
+      2060,
+      2082
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Nhiễm khuẩn huyết do tụ cầu vàng nhạy cảm methicillin",
+    "position": [
+      2114,
+      2167
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nghi liên quan catheter PICC",
+    "position": [
+      2169,
+      2197
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

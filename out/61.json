@@ -1,0 +1,114 @@
+[
+  {
+    "text": "xảy ra cách đây vài tháng",
+    "position": [
+      116,
+      141
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Tái khám vì đau đầu gối phải",
+    "position": [
+      190,
+      218
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không ghi rõ",
+    "position": [
+      570,
+      582
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu gối phải",
+    "position": [
+      609,
+      625
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đầu gối phải",
+    "position": [
+      665,
+      677
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dữ dội",
+    "position": [
+      705,
+      711
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không ghi rõ",
+    "position": [
+      729,
+      741
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không ghi rõ",
+    "position": [
+      758,
+      770
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không ghi rõ",
+    "position": [
+      787,
+      799
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không ghi rõ",
+    "position": [
+      919,
+      931
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các triệu chứng liên quan: Không ghi rõ",
+    "position": [
+      938,
+      977
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

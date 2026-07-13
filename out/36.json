@@ -1,0 +1,354 @@
+[
+  {
+    "text": "Bệnh thận đa nang (tiền sử Bệnh thận đa nang)",
+    "position": [
+      41,
+      86
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "azathioprine",
+    "position": [
+      208,
+      220
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1256"
+    ]
+  },
+  {
+    "text": "prograf",
+    "position": [
+      233,
+      240
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "196463"
+    ]
+  },
+  {
+    "text": "cellcept",
+    "position": [
+      294,
+      302
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "152633"
+    ]
+  },
+  {
+    "text": "cellcept",
+    "position": [
+      324,
+      332
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "152633"
+    ]
+  },
+  {
+    "text": "Suy thận ngày càng nặng",
+    "position": [
+      386,
+      409
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "creatinine",
+    "position": [
+      457,
+      467
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2913"
+    ]
+  },
+  {
+    "text": "creatinine",
+    "position": [
+      514,
+      524
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2913"
+    ]
+  },
+  {
+    "text": "sau khi ghép",
+    "position": [
+      547,
+      559
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "creatinine",
+    "position": [
+      573,
+      583
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2913"
+    ]
+  },
+  {
+    "text": "cellcept",
+    "position": [
+      653,
+      661
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "152633"
+    ]
+  },
+  {
+    "text": "creatinine",
+    "position": [
+      692,
+      702
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2913"
+    ]
+  },
+  {
+    "text": "ít nhất một phần",
+    "position": [
+      748,
+      764
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "creatinin tăng được cho là do bệnh lý BK",
+    "position": [
+      839,
+      879
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "prograf",
+    "position": [
+      893,
+      900
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "196463"
+    ]
+  },
+  {
+    "text": "creatinine",
+    "position": [
+      953,
+      963
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2913"
+    ]
+  },
+  {
+    "text": "Lo ngại về đào thải",
+    "position": [
+      991,
+      1010
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "creatinine",
+    "position": [
+      1179,
+      1189
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2913"
+    ]
+  },
+  {
+    "text": "hôm nay",
+    "position": [
+      1197,
+      1204
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hôm nay",
+    "position": [
+      1227,
+      1234
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Triệu chứng khi nhập viện: Suy thận ngày càng nặng",
+    "position": [
+      1244,
+      1294
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cellcept",
+    "position": [
+      1385,
+      1393
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "152633"
+    ]
+  },
+  {
+    "text": "pcr dương tính với virus bk vào giữa",
+    "position": [
+      1419,
+      1455
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "prograf",
+    "position": [
+      1469,
+      1476
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "196463"
+    ]
+  },
+  {
+    "text": "creatinine",
+    "position": [
+      1736,
+      1746
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2913"
+    ]
+  },
+  {
+    "text": "creatinine",
+    "position": [
+      1936,
+      1946
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2913"
+    ]
+  },
+  {
+    "text": "pcr dương tính với virus bk",
+    "position": [
+      1981,
+      2008
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thủ thuật đã thực hiện",
+    "position": [
+      2104,
+      2126
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sinh thiết thận (vào chính ngày hôm đó)",
+    "position": [
+      2139,
+      2178
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh lý thận do BK",
+    "position": [
+      2282,
+      2300
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lo ngại về đào thải",
+    "position": [
+      2313,
+      2332
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

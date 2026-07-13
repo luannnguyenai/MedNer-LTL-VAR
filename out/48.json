@@ -1,0 +1,514 @@
+[
+  {
+    "text": "Các tình trạng bệnh lý mạn tính: Tiền sử bệnh lý rộng",
+    "position": [
+      21,
+      74
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Yếu nửa người trái",
+    "position": [
+      123,
+      141
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thời điểm khởi phát triệu chứng: Hôm nay",
+    "position": [
+      146,
+      186
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngã khoảng 6 tuần trước",
+    "position": [
+      273,
+      296
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không va đập đầu",
+    "position": [
+      298,
+      314
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sau khi xuất viện vì ngất xỉu",
+    "position": [
+      445,
+      474
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vào [ngày bị thiếu]",
+    "position": [
+      476,
+      495
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ông ấy đã ổn định",
+    "position": [
+      497,
+      514
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điều này bất thường đối với ông ấy",
+    "position": [
+      582,
+      616
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Hôm nay",
+    "position": [
+      673,
+      680
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cảm thấy yếu sức",
+    "position": [
+      682,
+      698
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vào buổi trưa",
+    "position": [
+      705,
+      718
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi ra khỏi ghế tựa",
+    "position": [
+      720,
+      748
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi ăn",
+    "position": [
+      886,
+      901
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ổn định vào buổi chiều",
+    "position": [
+      1058,
+      1080
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "có thể dễ dàng lên cầu thang",
+    "position": [
+      1082,
+      1110
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sau đó trong ngày",
+    "position": [
+      1117,
+      1134
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Yếu nửa người trái",
+    "position": [
+      1309,
+      1327
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cảm thấy yếu sức",
+    "position": [
+      1334,
+      1350
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi cài cúc áo",
+    "position": [
+      1357,
+      1380
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khó kéo khóa quần",
+    "position": [
+      1387,
+      1404
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hơi vụng về",
+    "position": [
+      1411,
+      1422
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu tiện ra sàn",
+    "position": [
+      1429,
+      1445
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi ra khỏi ghế tựa",
+    "position": [
+      1452,
+      1480
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kéo lê chân trái",
+    "position": [
+      1487,
+      1503
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cánh tay trái lơ lửng",
+    "position": [
+      1510,
+      1531
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi ăn",
+    "position": [
+      1589,
+      1604
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cảm giác bất thường ở bên phải đầu",
+    "position": [
+      1611,
+      1645
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nửa trái",
+    "position": [
+      1685,
+      1693
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bên phải đầu",
+    "position": [
+      1695,
+      1707
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không được chỉ định",
+    "position": [
+      1735,
+      1754
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảng 30 phút (đợt đầu tiên)\n    - Tần suất",
+    "position": [
+      1775,
+      1816
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "2",
+    "position": [
+      1818,
+      1819
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không được chỉ định",
+    "position": [
+      1847,
+      1866
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Trở lại trạng thái bình thường",
+    "position": [
+      1956,
+      1986
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi cài cúc áo",
+    "position": [
+      2016,
+      2039
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kéo khóa quần",
+    "position": [
+      2041,
+      2054
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "vụng về",
+    "position": [
+      2056,
+      2063
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đi tiểu trên sàn",
+    "position": [
+      2065,
+      2081
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi ra khỏi ghế tựa",
+    "position": [
+      2083,
+      2111
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "kéo lê chân trái",
+    "position": [
+      2113,
+      2129
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "cánh tay trái lơ lửng",
+    "position": [
+      2131,
+      2152
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi ước lượng vị trí ngồi",
+    "position": [
+      2154,
+      2188
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi ăn",
+    "position": [
+      2190,
+      2205
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cảm giác bất thường bên phải đầu",
+    "position": [
+      2207,
+      2239
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không có chấn thương đầu gần đây",
+    "position": [
+      2282,
+      2314
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xuất viện",
+    "position": [
+      2518,
+      2527
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sau đó ổn định",
+    "position": [
+      2529,
+      2543
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hơi vụng về và tiểu tiện ra sàn",
+    "position": [
+      2611,
+      2642
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  }
+]

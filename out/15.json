@@ -1,0 +1,62 @@
+[
+  {
+    "text": "xuất huyết nội sọ không do chấn thương",
+    "position": [
+      37,
+      75
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không đặc hiệu",
+    "position": [
+      77,
+      91
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Truyền dịch yếu tố IX đậm đặc",
+    "position": [
+      144,
+      173
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xuất huyết nội sọ không do chấn thương",
+    "position": [
+      205,
+      243
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không đặc hiệu",
+    "position": [
+      245,
+      259
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điều trị chống đông",
+    "position": [
+      262,
+      281
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

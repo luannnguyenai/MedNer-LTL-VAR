@@ -1,0 +1,5 @@
+torch>=2.0
+transformers>=4.40
+# tùy chọn:
+seqeval          # nếu cài được (metric NER; train_ner.py đã có span-F1 tự viết nếu thiếu)
+vncorenlp        # chỉ khi dùng PhoBERT/ViHealthBERT (word-segmentation)

@@ -1,0 +1,366 @@
+[
+  {
+    "text": "bệnh tim mạch do xơ vữa động mạch",
+    "position": [
+      57,
+      90
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I25.1"
+    ]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [
+      97,
+      110
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "P29.2",
+      "I15",
+      "I15.8"
+    ]
+  },
+  {
+    "text": "tăng lipid máu",
+    "position": [
+      117,
+      131
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "không đặc hiệu",
+    "position": [
+      133,
+      147
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bệnh trào ngược dạ dày- thực quản không có viêm thực quản",
+    "position": [
+      154,
+      211
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      260,
+      268
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử 1 ngày",
+    "position": [
+      311,
+      325
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khởi phát trong khi ăn tối",
+    "position": [
+      332,
+      358
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Triệu chứng chính",
+    "position": [
+      363,
+      380
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng vùng thượng vị",
+    "position": [
+      387,
+      410
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      417,
+      425
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không có sốt",
+    "position": [
+      457,
+      469
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ớn lạnh",
+    "position": [
+      471,
+      478
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      480,
+      483
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "táo bón",
+    "position": [
+      485,
+      492
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tiểu khó",
+    "position": [
+      498,
+      506
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "hoặc các triệu chứng khác",
+    "position": [
+      508,
+      533
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dấu hiệu lâm sàng",
+    "position": [
+      566,
+      583
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "trước thủ thuật",
+    "position": [
+      625,
+      640
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hạ huyết áp",
+    "position": [
+      647,
+      658
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không đặc hiệu trong khi thủ thuật",
+    "position": [
+      660,
+      694
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm gan do men",
+    "position": [
+      787,
+      802
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspartate",
+    "position": [
+      814,
+      823
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "42543"
+    ]
+  },
+  {
+    "text": "alanine",
+    "position": [
+      860,
+      867
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "426"
+    ]
+  },
+  {
+    "text": "phosphatase kiềm (ap) là 983",
+    "position": [
+      899,
+      927
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đã lấy cấy máu",
+    "position": [
+      1001,
+      1015
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nội soi mật tụy ngược dòng",
+    "position": [
+      1188,
+      1214
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đặt nội khí quản nhằm",
+    "position": [
+      1269,
+      1290
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đặt catheter động mạch (",
+    "position": [
+      1292,
+      1316
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đặt đường truyền tĩnh mạch ngoại vi",
+    "position": [
+      1317,
+      1352
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "levophed",
+    "position": [
+      1360,
+      1368
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "227559"
+    ]
+  },
+  {
+    "text": "propofol",
+    "position": [
+      1375,
+      1383
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "8782"
+    ]
+  },
+  {
+    "text": "phentolamine",
+    "position": [
+      1408,
+      1420
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "8153"
+    ]
+  }
+]

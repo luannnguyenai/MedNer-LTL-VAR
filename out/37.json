@@ -1,0 +1,508 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [
+      39,
+      52
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "P29.2",
+      "I15",
+      "I15.8"
+    ]
+  },
+  {
+    "text": "Đái tháo đường",
+    "position": [
+      54,
+      68
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "O24",
+      "E14",
+      "E10"
+    ]
+  },
+  {
+    "text": "có biến chứng bệnh lý thần kinh ngoại biên",
+    "position": [
+      70,
+      112
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Suy tim không do thiếu máu cơ tim (theo chẩn đoán trước đây)",
+    "position": [
+      114,
+      174
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh thận mạn tính",
+    "position": [
+      176,
+      194
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "N18.1",
+      "N18.2",
+      "N18.3"
+    ]
+  },
+  {
+    "text": "Torsemide",
+    "position": [
+      224,
+      233
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "38413"
+    ]
+  },
+  {
+    "text": "uống 1 viên/ngày",
+    "position": [
+      235,
+      251
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đôi khi 2 viên/ngày",
+    "position": [
+      253,
+      272
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Insulin glargine",
+    "position": [
+      274,
+      290
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "274783"
+    ]
+  },
+  {
+    "text": "theo đơn 100 đơn vị x 2 lần/ngày",
+    "position": [
+      292,
+      324
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "hiện đã ngừng sử dụng",
+    "position": [
+      326,
+      347
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Isosorbide",
+    "position": [
+      349,
+      359
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "6057"
+    ]
+  },
+  {
+    "text": "Rosuvastatin",
+    "position": [
+      405,
+      417
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "301542"
+    ]
+  },
+  {
+    "text": "Crestor",
+    "position": [
+      419,
+      426
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "320864"
+    ]
+  },
+  {
+    "text": "Carvedilol",
+    "position": [
+      473,
+      483
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "20352"
+    ]
+  },
+  {
+    "text": "Creatinine",
+    "position": [
+      607,
+      617
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2913"
+    ]
+  },
+  {
+    "text": "Torsemide",
+    "position": [
+      741,
+      750
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "38413"
+    ]
+  },
+  {
+    "text": "đôi khi 2 viên",
+    "position": [
+      759,
+      773
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "torsemide",
+    "position": [
+      805,
+      814
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "38413"
+    ]
+  },
+  {
+    "text": "glucose là thấp",
+    "position": [
+      911,
+      926
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nên ngừng dùng glargine",
+    "position": [
+      928,
+      951
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Báo cáo bị ngã gần đây",
+    "position": [
+      954,
+      976
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "isosorbide",
+    "position": [
+      1040,
+      1050
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "6057"
+    ]
+  },
+  {
+    "text": "crestor",
+    "position": [
+      1052,
+      1059
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "320864"
+    ]
+  },
+  {
+    "text": "carvedilol",
+    "position": [
+      1061,
+      1071
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "20352"
+    ]
+  },
+  {
+    "text": "isosorbide",
+    "position": [
+      1102,
+      1112
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "6057"
+    ]
+  },
+  {
+    "text": "crestor",
+    "position": [
+      1114,
+      1121
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "320864"
+    ]
+  },
+  {
+    "text": "carvedilol",
+    "position": [
+      1123,
+      1133
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "20352"
+    ]
+  },
+  {
+    "text": "mẫu không tan máu",
+    "position": [
+      1217,
+      1234
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kali",
+    "position": [
+      1356,
+      1360
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "6.3",
+    "position": [
+      1361,
+      1364
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mẫu không tan máu",
+    "position": [
+      1366,
+      1383
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ure (bun) 83",
+    "position": [
+      1399,
+      1411
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "creatinine",
+    "position": [
+      1414,
+      1424
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2913"
+    ]
+  },
+  {
+    "text": "hba1c",
+    "position": [
+      1448,
+      1453
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "6.5\n",
+    "position": [
+      1454,
+      1458
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bnp",
+    "position": [
+      1460,
+      1463
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "21,000\n",
+    "position": [
+      1464,
+      1471
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổng phân tích nước tiểu bình thường",
+    "position": [
+      1473,
+      1509
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cúm âm tính",
+    "position": [
+      1512,
+      1523
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tràn dịch màng phổi hai bên nhẹ",
+    "position": [
+      1601,
+      1632
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tim to",
+    "position": [
+      1634,
+      1640
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lasix 40 mg",
+    "position": [
+      1723,
+      1734
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "200809"
+    ]
+  }
+]

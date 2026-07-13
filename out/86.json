@@ -1,0 +1,98 @@
+[
+  {
+    "text": "bệnh động mạch vành",
+    "position": [
+      34,
+      53
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bệnh lý thần kinh ngoại biên",
+    "position": [
+      55,
+      83
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "G90.0"
+    ]
+  },
+  {
+    "text": "Bệnh nhân tỉnh",
+    "position": [
+      231,
+      245
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      248,
+      255
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khó thở tăng khi vận động gắng sức",
+    "position": [
+      258,
+      292
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đi lại khó khăn",
+    "position": [
+      295,
+      310
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cần dùng gậy hỗ trợ đi lại",
+    "position": [
+      312,
+      338
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau hai bàn chân do bệnh lý thần kinh ngoại biên",
+    "position": [
+      341,
+      389
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp động mạch vành can thiệp",
+    "position": [
+      721,
+      750
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

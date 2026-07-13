@@ -1,0 +1,142 @@
+[
+  {
+    "text": "Thời điểm khởi phát triệu chứng: giữa",
+    "position": [
+      53,
+      90
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng da không đau",
+    "position": [
+      118,
+      135
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngứa",
+    "position": [
+      138,
+      142
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "một chỗ hẹp đơn lẻ được thấy",
+    "position": [
+      516,
+      544
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh thiết cho thấy ung thư biểu mô tuyến",
+    "position": [
+      633,
+      674
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "biệt hóa vừa phải đến kém",
+    "position": [
+      676,
+      701
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng các xét nghiệm chức năng gan",
+    "position": [
+      826,
+      859
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bilirubin",
+    "position": [
+      862,
+      871
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh thiết cho thấy ung thư biểu mô tuyến",
+    "position": [
+      915,
+      956
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "biệt hóa vừa phải đến kém",
+    "position": [
+      958,
+      983
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "một chỗ hẹp đơn lẻ được thấy",
+    "position": [
+      1224,
+      1252
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ERCP bởi Bác sĩ",
+    "position": [
+      1327,
+      1342
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sinh thiết",
+    "position": [
+      1345,
+      1355
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "u ác của đầu tuỵ mới được chẩn đoán",
+    "position": [
+      1387,
+      1422
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

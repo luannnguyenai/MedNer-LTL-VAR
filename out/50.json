@@ -1,0 +1,478 @@
+[
+  {
+    "text": "hen suyễn",
+    "position": [
+      113,
+      122
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "J45"
+    ]
+  },
+  {
+    "text": "albuterol",
+    "position": [
+      159,
+      168
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "435"
+    ]
+  },
+  {
+    "text": "z-pack",
+    "position": [
+      192,
+      198
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "khó thở và tiếng rít",
+    "position": [
+      246,
+      266
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau khi ấn xoang",
+    "position": [
+      332,
+      348
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho nhẹ",
+    "position": [
+      350,
+      356
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiếng rít vào ban đêm",
+    "position": [
+      419,
+      440
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau khi ấn xoang",
+    "position": [
+      482,
+      498
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho nhẹ",
+    "position": [
+      500,
+      506
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiếng rít vào ban đêm",
+    "position": [
+      559,
+      580
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "prednisone",
+    "position": [
+      747,
+      757
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "8640"
+    ]
+  },
+  {
+    "text": "amoxicillin",
+    "position": [
+      771,
+      782
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "723"
+    ]
+  },
+  {
+    "text": "Tuy nhiên",
+    "position": [
+      784,
+      793
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "amoxicillin",
+    "position": [
+      820,
+      831
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "723"
+    ]
+  },
+  {
+    "text": "azithromycin",
+    "position": [
+      884,
+      896
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "18631"
+    ]
+  },
+  {
+    "text": "prednisone 40 mg",
+    "position": [
+      915,
+      931
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "prednisone",
+    "position": [
+      1010,
+      1020
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "8640"
+    ]
+  },
+  {
+    "text": "bệnh nhân xuất hiện đau đầu",
+    "position": [
+      1031,
+      1058
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Triệu chứng tiếp tục tiến triển tăng dần",
+    "position": [
+      1060,
+      1100
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đêm trước nhập viện",
+    "position": [
+      1102,
+      1121
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân xuất hiện đau đầu dữ dội",
+    "position": [
+      1123,
+      1157
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khò khè nhiều",
+    "position": [
+      1159,
+      1172
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nghe tiếng rít về đêm",
+    "position": [
+      1174,
+      1195
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất ngủ và đau vùng hạ vị",
+    "position": [
+      1197,
+      1222
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khó thở",
+    "position": [
+      1251,
+      1258
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khò khè",
+    "position": [
+      1260,
+      1267
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiếng rít về đêm",
+    "position": [
+      1269,
+      1285
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau vùng xoang",
+    "position": [
+      1287,
+      1301
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ho nhẹ",
+    "position": [
+      1303,
+      1309
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau đầu dữ dội",
+    "position": [
+      1311,
+      1325
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau hạ vị",
+    "position": [
+      1327,
+      1336
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "prednisone",
+    "position": [
+      1444,
+      1454
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "8640"
+    ]
+  },
+  {
+    "text": "amoxicillin",
+    "position": [
+      1468,
+      1479
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "723"
+    ]
+  },
+  {
+    "text": "amoxicillin",
+    "position": [
+      1487,
+      1498
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "723"
+    ]
+  },
+  {
+    "text": "azithromycin",
+    "position": [
+      1539,
+      1551
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "18631"
+    ]
+  },
+  {
+    "text": "prednisone 40 mg",
+    "position": [
+      1561,
+      1577
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngay trước khi nhập viện",
+    "position": [
+      1647,
+      1671
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khò khè nhiều",
+    "position": [
+      1688,
+      1701
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đặc biệt về đêm",
+    "position": [
+      1703,
+      1718
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mất ngủ",
+    "position": [
+      1720,
+      1727
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau hạ vị",
+    "position": [
+      1729,
+      1738
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "combivent",
+    "position": [
+      1910,
+      1919
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "151539"
+    ]
+  },
+  {
+    "text": "magnesium",
+    "position": [
+      1954,
+      1963
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "6574"
+    ]
+  },
+  {
+    "text": "prednisone",
+    "position": [
+      1979,
+      1989
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "8640"
+    ]
+  }
+]

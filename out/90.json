@@ -1,0 +1,42 @@
+[
+  {
+    "text": "giọng khàn do tổn thương dây thanh quản",
+    "position": [
+      37,
+      76
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giọng khàn",
+    "position": [
+      100,
+      110
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổn thương dây thanh quản thật sự",
+    "position": [
+      113,
+      146
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nạo vét tổn thương dây thanh quản",
+    "position": [
+      202,
+      235
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "text": "U Sacoit tổn thương chủ yếu tại tim",
+    "position": [
+      48,
+      83
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ho x1 ngày",
+    "position": [
+      230,
+      240
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho ra máu x3 đêm qua",
+    "position": [
+      247,
+      267
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sau đó 2 giờ",
+    "position": [
+      437,
+      449
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      571,
+      578
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đờm pha màu hồng",
+    "position": [
+      623,
+      639
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau bụng  âm ỉ  trong tháng qua",
+    "position": [
+      685,
+      716
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "levofloxacin",
+    "position": [
+      876,
+      888
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "82122"
+    ]
+  },
+  {
+    "text": "tylenol",
+    "position": [
+      975,
+      982
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "202433"
+    ]
+  }
+]

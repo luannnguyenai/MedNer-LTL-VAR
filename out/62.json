@@ -1,0 +1,70 @@
+[
+  {
+    "text": "Tiền sử phẫu thuật / thủ thuật",
+    "position": [
+      30,
+      60
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử đặt stent động mạch thận trái",
+    "position": [
+      119,
+      156
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "loét mới ở ngón chân út bên phải",
+    "position": [
+      204,
+      236
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "loét đau",
+    "position": [
+      268,
+      276
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "loét đỏ",
+    "position": [
+      283,
+      290
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L89.1",
+      "L89.3",
+      "L89.2"
+    ]
+  },
+  {
+    "text": "loét sưng",
+    "position": [
+      297,
+      306
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

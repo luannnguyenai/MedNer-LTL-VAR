@@ -1,0 +1,258 @@
+[
+  {
+    "text": "bệnh động mạch vành sau can thiệp bắc cầu nối",
+    "position": [
+      48,
+      93
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử phẫu thuật / thủ thuật",
+    "position": [
+      158,
+      188
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Bắc cầu nối chủ vành",
+    "position": [
+      195,
+      215
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "nitroglycerin",
+    "position": [
+      786,
+      799
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "4917"
+    ]
+  },
+  {
+    "text": "kèm theo khó thở",
+    "position": [
+      876,
+      892
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nitroglycerin",
+    "position": [
+      909,
+      922
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "4917"
+    ]
+  },
+  {
+    "text": "đau ngực hết trước khi chuyển viện",
+    "position": [
+      945,
+      979
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Triệu chứng lúc nhập viện cơ sở",
+    "position": [
+      994,
+      1025
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vã mồ hôi",
+    "position": [
+      1083,
+      1092
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      1099,
+      1106
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đến bệnh viện tuyến cơ sở",
+    "position": [
+      1112,
+      1137
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điện tim sóng ST chênh xuống ở các chuyển đạo v4 đến v6",
+    "position": [
+      1154,
+      1209
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [
+      1226,
+      1233
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1191"
+    ]
+  },
+  {
+    "text": "nitroglycerin",
+    "position": [
+      1256,
+      1269
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "4917"
+    ]
+  },
+  {
+    "text": "nitroglycerin",
+    "position": [
+      1283,
+      1296
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "4917"
+    ]
+  },
+  {
+    "text": "nitroglycerin",
+    "position": [
+      1321,
+      1334
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "4917"
+    ]
+  },
+  {
+    "text": "ativan",
+    "position": [
+      1342,
+      1348
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "202479"
+    ]
+  },
+  {
+    "text": "Lorazepam",
+    "position": [
+      1351,
+      1360
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "6470"
+    ]
+  },
+  {
+    "text": "lovenox",
+    "position": [
+      1368,
+      1375
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "225036"
+    ]
+  },
+  {
+    "text": "Sau dùng thuốc đau ngực hết",
+    "position": [
+      1385,
+      1412
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chuyển đến bệnh viện tuyến trên để tiếp tục điều trị",
+    "position": [
+      1464,
+      1516
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vã mồ hôi",
+    "position": [
+      1569,
+      1578
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điện tâm đồ cho thấy nhịp xoangnhịp xoang",
+    "position": [
+      1657,
+      1698
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

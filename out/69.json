@@ -1,0 +1,204 @@
+[
+  {
+    "text": "Tiền sử phẫu thuật / thủ thuật",
+    "position": [
+      30,
+      60
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Cắt bỏ thận trái do ung thư biểu mô tế bào thận",
+    "position": [
+      67,
+      114
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Cắt tuyến giáp với Dr",
+    "position": [
+      121,
+      142
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "do ung thư biểu mô tuyến giật nhú",
+    "position": [
+      144,
+      177
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đến khám vì mệt mỏi",
+    "position": [
+      226,
+      245
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "guaiac",
+    "position": [
+      268,
+      274
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1373150"
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      322,
+      329
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu",
+    "position": [
+      336,
+      345
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D50",
+      "D50.8",
+      "D52"
+    ]
+  },
+  {
+    "text": "guaiac",
+    "position": [
+      360,
+      366
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1373150"
+    ]
+  },
+  {
+    "text": "sinh thiết dương tính với ung thư biểu mô tuyến",
+    "position": [
+      491,
+      538
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu",
+    "position": [
+      597,
+      606
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D50",
+      "D50.8",
+      "D52"
+    ]
+  },
+  {
+    "text": "nội soi đại tràng",
+    "position": [
+      749,
+      766
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh thiết",
+    "position": [
+      773,
+      783
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khối ở chỗ uốn gan",
+    "position": [
+      824,
+      842
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ung thư biểu mô tuyến trên sinh thiết",
+    "position": [
+      849,
+      886
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử khối u thận",
+    "position": [
+      893,
+      912
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ung thư biểu mô tế bào thận",
+    "position": [
+      919,
+      946
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ung thư biểu mô tuyến giật nhú",
+    "position": [
+      953,
+      983
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

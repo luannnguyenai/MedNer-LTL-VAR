@@ -1,0 +1,318 @@
+[
+  {
+    "text": "cipro",
+    "position": [
+      165,
+      170
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "203563"
+    ]
+  },
+  {
+    "text": "bactrim",
+    "position": [
+      177,
+      184
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "151399"
+    ]
+  },
+  {
+    "text": "Kháng sinh cho nhiễm khuẩn đường tiết niệu",
+    "position": [
+      191,
+      233
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử bệnh bệnh hiện tại",
+    "position": [
+      312,
+      338
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dưới\n    Thời điểm khởi phát triệu chứng",
+    "position": [
+      369,
+      409
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "7",
+    "position": [
+      411,
+      412
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Triệu chứng trở nên tồi tệ hơn",
+    "position": [
+      443,
+      473
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "morphine",
+    "position": [
+      648,
+      656
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7052"
+    ]
+  },
+  {
+    "text": "đau bụng dưới",
+    "position": [
+      700,
+      713
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ớn lạnh",
+    "position": [
+      720,
+      727
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó chịu khi đi tiểu",
+    "position": [
+      734,
+      754
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó chịu khi đại tiện",
+    "position": [
+      761,
+      782
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sự kiện trước khi nhập viện",
+    "position": [
+      787,
+      814
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "được kê đơn kháng sinh cho nhiễm khuẩn đường tiết niệu",
+    "position": [
+      868,
+      922
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "vị trí không xác định",
+    "position": [
+      924,
+      945
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "cipro",
+    "position": [
+      1012,
+      1017
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "203563"
+    ]
+  },
+  {
+    "text": "bactrim",
+    "position": [
+      1021,
+      1028
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "151399"
+    ]
+  },
+  {
+    "text": "ngay trước khi nhập viện",
+    "position": [
+      1044,
+      1068
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau liên tục",
+    "position": [
+      1124,
+      1136
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không có máu trong phân hoặc nước tiểu",
+    "position": [
+      1244,
+      1282
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đớn khi đi tiểu",
+    "position": [
+      1284,
+      1303
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Phủ nhận CPSOB (đau ngực",
+    "position": [
+      1356,
+      1380
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở)",
+    "position": [
+      1382,
+      1390
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "NV (buồn nôn",
+    "position": [
+      1392,
+      1404
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "nôn mửa)",
+    "position": [
+      1406,
+      1414
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "VB (chảy máu âm đạo)",
+    "position": [
+      1416,
+      1436
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khí hư bất thường",
+    "position": [
+      1438,
+      1455
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thay đổi cân nặng",
+    "position": [
+      1457,
+      1474
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu (cbc) là 12 (tăng nhẹ))",
+    "position": [
+      1527,
+      1564
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

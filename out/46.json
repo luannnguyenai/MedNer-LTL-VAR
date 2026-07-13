@@ -1,0 +1,74 @@
+[
+  {
+    "text": "tiền sử lâu dài của tăng huyết áp",
+    "position": [
+      39,
+      72
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn với hạ huyết áp",
+    "position": [
+      200,
+      224
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không đặc hiệu",
+    "position": [
+      226,
+      240
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó kiểm soát huyết áp đáng kể",
+    "position": [
+      247,
+      277
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đi khập khiễng cách quãng",
+    "position": [
+      284,
+      309
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp mạch máu thận",
+    "position": [
+      586,
+      604
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "stent",
+    "position": [
+      611,
+      616
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "text": "hội chứng nghiện rượu",
+    "position": [
+      129,
+      150
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "seroquel",
+    "position": [
+      190,
+      198
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "83553"
+    ]
+  },
+  {
+    "text": "vì bệnh nhân cho rằng lú lẫn",
+    "position": [
+      207,
+      235
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      237,
+      246
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Các yếu tố nguy cơ liên quan: hội chứng nghiện rượu",
+    "position": [
+      293,
+      344
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tự tử",
+    "position": [
+      465,
+      470
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lú lẫn từng đợt gần đây",
+    "position": [
+      477,
+      500
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cảm giác chóng mặt",
+    "position": [
+      507,
+      525
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi nhìn gần",
+    "position": [
+      532,
+      553
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn thị giác",
+    "position": [
+      560,
+      577
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "H53.0",
+      "H53.1",
+      "H53.2"
+    ]
+  },
+  {
+    "text": "nhìn thấy con cái mình ở góc mắt",
+    "position": [
+      579,
+      611
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảo giác thị giác (ảo giác thị giác)",
+    "position": [
+      618,
+      653
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ảo thanh (AH) (ảo giác thính giác)",
+    "position": [
+      660,
+      694
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thụ động",
+    "position": [
+      733,
+      741
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "diễn ra liên tục",
+    "position": [
+      743,
+      759
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "từng đợt",
+    "position": [
+      825,
+      833
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      840,
+      849
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khó khăn về thị lực gần",
+    "position": [
+      856,
+      879
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhìn thấy con cái ở góc mắt",
+    "position": [
+      905,
+      932
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảo giác thị giác",
+    "position": [
+      939,
+      955
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "và anh ấy không thể làm được",
+    "position": [
+      1243,
+      1271
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh lý chất trắng",
+    "position": [
+      1335,
+      1353
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đánh giá thần kinh để tìm bệnh lý chất trắng",
+    "position": [
+      1417,
+      1461
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "các băng nhóm oligoclonal đang chờ kết quả",
+    "position": [
+      1468,
+      1510
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngay trước khi nhập viện: Phủ nhận tự tử chủ động",
+    "position": [
+      1591,
+      1640
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ý định",
+    "position": [
+      1642,
+      1648
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "kế hoạch hiện tại khi đã lên tầng",
+    "position": [
+      1650,
+      1683
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "cảm thấy an toàn",
+    "position": [
+      1685,
+      1701
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chọc dò dịch não tủy là âm tính",
+    "position": [
+      1754,
+      1785
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đánh giá thần kinh để tìm bệnh lý chất trắng",
+    "position": [
+      1997,
+      2041
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "các băng nhóm oligoclonal đang chờ kết quả",
+    "position": [
+      2048,
+      2090
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nguyên nhân chưa rõ (đối với phát hiện bệnh lý chất trắng)",
+    "position": [
+      2097,
+      2155
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ảo giác do rượu (suy nghĩ)",
+    "position": [
+      2240,
+      2266
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không được coi là thực sự loạn thần",
+    "position": [
+      2273,
+      2308
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

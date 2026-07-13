@@ -1,0 +1,266 @@
+[
+  {
+    "text": "Các tập tương tự trước đây",
+    "position": [
+      21,
+      47
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tăng đau đầu cải thiện khi nằm ngửa",
+    "position": [
+      160,
+      195
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "não úng thuỷ khác từ thời kỳ sơ sinh",
+    "position": [
+      388,
+      424
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử phẫu thuật / thủ thuật",
+    "position": [
+      429,
+      459
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu kéo dài kèm theo mờ mắt",
+    "position": [
+      703,
+      734
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân bị não úng tuỷ từ thời kỳ sơ sinh",
+    "position": [
+      833,
+      876
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Trước đây đã từng nhập viện với chẩn đoán não úng thủy",
+    "position": [
+      926,
+      980
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "có biểu hiện tăng đau đầu",
+    "position": [
+      982,
+      1007
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "triệu chứng cải thiện khi nằm ngửa",
+    "position": [
+      1010,
+      1044
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Đến hôm nay",
+    "position": [
+      1211,
+      1222
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân bị mờ mắt ở cả hai mắt",
+    "position": [
+      1224,
+      1256
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bên trái nặng hơn bên phải",
+    "position": [
+      1258,
+      1284
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiến triển trong 2 tuần qua",
+    "position": [
+      1286,
+      1313
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đến hôm nay",
+    "position": [
+      1321,
+      1332
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân bị tăng tần suất đau đầu gián đoạn",
+    "position": [
+      1334,
+      1378
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu kéo dài",
+    "position": [
+      1411,
+      1426
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhìn mờ ở cả hai mắt",
+    "position": [
+      1433,
+      1453
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bên trái nặng hơn bên phải",
+    "position": [
+      1455,
+      1481
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cơn  đau đầu nhiều hơn",
+    "position": [
+      1489,
+      1511
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiến triển trong 2 tuần qua",
+    "position": [
+      1552,
+      1579
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bên trái nặng hơn bên phải",
+    "position": [
+      1581,
+      1607
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiều hơn",
+    "position": [
+      1623,
+      1632
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sự kiện trước khi nhập viện",
+    "position": [
+      1637,
+      1664
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bên trái nặng hơn bên phải",
+    "position": [
+      1795,
+      1821
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Phù gai thị",
+    "position": [
+      1872,
+      1883
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

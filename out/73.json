@@ -1,0 +1,295 @@
+[
+  {
+    "text": "tăng huyết áp vô căn (nguyên phát) (Tăng huyết áp)",
+    "position": [
+      193,
+      243
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "tăng lipid máu",
+    "position": [
+      250,
+      264
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "không đặc hiệu (tăng lipid máu",
+    "position": [
+      266,
+      296
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "không đặc hiệu)",
+    "position": [
+      298,
+      313
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường type 2 (Đái tháo đường típ 2)",
+    "position": [
+      320,
+      364
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bệnh phổi tắc nghẽn mạn tính",
+    "position": [
+      371,
+      399
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "J44",
+      "J44.8",
+      "J44.9"
+    ]
+  },
+  {
+    "text": "không xác định (bệnh phổi tắc nghẽn mạn tính",
+    "position": [
+      401,
+      445
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "J44.9",
+      "J44.1"
+    ]
+  },
+  {
+    "text": "aspirin 81mg",
+    "position": [
+      760,
+      772
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "315431"
+    ]
+  },
+  {
+    "text": "clopidogrel",
+    "position": [
+      787,
+      798
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "32968"
+    ]
+  },
+  {
+    "text": "prasugrel",
+    "position": [
+      800,
+      809
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "613391"
+    ]
+  },
+  {
+    "text": "clopidogrel",
+    "position": [
+      822,
+      833
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "32968"
+    ]
+  },
+  {
+    "text": "metoprolol succinate 100mg daily",
+    "position": [
+      860,
+      892
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "lasix 40mg daily",
+    "position": [
+      911,
+      927
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "atorvastatin 80mg daily",
+    "position": [
+      946,
+      969
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "lisinopril 2.5mg daily",
+    "position": [
+      986,
+      1008
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ranexa 500mg daily",
+    "position": [
+      1025,
+      1043
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      1103,
+      1111
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tốt trong quá trình phục hồi chức năng vào tuần đầu tiên",
+    "position": [
+      1232,
+      1288
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      1410,
+      1418
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngay trước khi nhập viện",
+    "position": [
+      1533,
+      1557
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không có đau ngực",
+    "position": [
+      1564,
+      1581
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      1583,
+      1590
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đánh trống ngực",
+    "position": [
+      1592,
+      1607
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tổng trạng thái ổn",
+    "position": [
+      1615,
+      1633
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

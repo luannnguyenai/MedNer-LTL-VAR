@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Khoảng vài tuần trước đây bệnh nhân có khó thở khi gắng sức",
+    "position": [
+      20,
+      79
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đã nhập viện tại bệnh viện tuyến dưới",
+    "position": [
+      81,
+      118
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sau đó không đỡ chuyển viện",
+    "position": [
+      120,
+      147
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân tỉnh",
+    "position": [
+      175,
+      189
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khó thở khi gắng sức",
+    "position": [
+      190,
+      210
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hình ảnh",
+    "position": [
+      235,
+      243
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp động mạch vành cho thấy không có bệnh động mạch vành",
+    "position": [
+      289,
+      346
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dùng lợi tiểu",
+    "position": [
+      359,
+      372
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "có cải thiện cải thiện triệu chứng tốt",
+    "position": [
+      374,
+      412
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]
