@@ -44,6 +44,8 @@ class NERPredictor:
                          enc["attention_mask"].to(self.device))
         fine = out["pred_fine"][0].tolist()
         a_prob = torch.sigmoid(out["logit_assert"][0]).tolist()
+        # điểm tin cậy mỗi token = max softmax của emission fine
+        tok_conf = torch.softmax(out["emis_fine"][0], dim=-1).max(-1).values.tolist()
 
         spans, cur = [], None
         for idx, (tid, (cs, ce)) in enumerate(zip(fine, offs)):
@@ -62,8 +64,8 @@ class NERPredictor:
         if cur:
             spans.append(cur)
 
-        # assertion = trung bình prob trên token thực thể, ngưỡng 0.5
         for sp in spans:
+            sp["score"] = sum(tok_conf[i] for i in sp["idx"]) / len(sp["idx"])
             if sp["t"] in ASSERTABLE:
                 probs = [a_prob[i] for i in sp["idx"]]
                 avg = [sum(p[j] for p in probs) / len(probs) for j in range(3)]

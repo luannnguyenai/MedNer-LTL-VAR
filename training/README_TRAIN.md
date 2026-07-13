@@ -33,16 +33,16 @@ python -c "from adapters import convert_vimedner;  convert_vimedner('ViMedNER/tr
 
 ## 1. Encoder — chọn & lý do (liên quan trực tiếp vị trí ký tự)
 
-| Encoder | Params | Ưu | Nhược |
-|---|---|---:|---|
-| **XLM-R-large** ✅ khuyến nghị chính | 0.56B | subword **KHÔNG cần word-seg** → offset_mapping ra **char sạch**; tốt nhất trên ViMedNER | không chuyên tiếng Việt |
-| **ViHealthBERT-base** | 0.135B | domain y tế Việt, SOTA COVID/ViMQ | cần **VnCoreNLP RDRSegmenter**; bản word-level làm lệch offset |
-| PhoBERT-large | 0.37B | monolingual mạnh, > XLM-R trên PhoNER | cần word-seg |
+> **Cập nhật theo bằng chứng (xem `ARCHITECTURE_V2.md` §0):** trên **ViMedNER** — benchmark gần cuộc thi nhất — **XLM-R-large thắng** ViHealthBERT/ViPubmedDeBERTa/ViDeBERTa/PhoBERT. Trên PhoNER/ViMQ (tin tức/hỏi đáp) thì ViHealthBERT thắng. ⇒ **backbone chính = XLM-R-large; ViHealthBERT-syllable làm thành viên ensemble**; chọn/gộp theo **dev-F1**, không giáo điều.
 
-**Vị trí ký tự (điểm phải cẩn thận):** đề chấm theo **offset ký tự trên RAW text**. XLM-R dùng SentencePiece subword → `return_offsets_mapping=True` cho `(char_start,char_end)` trực tiếp trên raw → không lệch. Nếu chọn PhoBERT/ViHealthBERT-**word**, phải:
-1. word-segment bằng RDRSegmenter → lưu **mapping token↔offset gốc**;
-2. train trên chuỗi đã seg nhưng **ánh xạ ngược span về offset raw** khi xuất.
-→ Dùng bản **ViHealthBERT-syllable** (âm tiết) để tránh phần lớn rắc rối offset. **Khuyến nghị: XLM-R-large làm model chính**; ViHealthBERT dùng cho ensemble (§6).
+| Encoder | Params | Ưu | Nhược |
+|---|---:|---|---|
+| **XLM-R-large** ✅ backbone chính | 0.56B | **SOTA trên ViMedNER** (đúng dạng dữ liệu cuộc thi); subword → offset char sạch, không cần word-seg | không chuyên y khoa |
+| **ViHealthBERT-syllable** ✅ ensemble + head assertion | 0.135B | domain y tế Việt (thắng COVID/ViMQ); syllable → offset sạch, **KHÔNG cần VnCoreNLP** | yếu hơn XLM-R trên ViMedNER-style |
+| PhoBERT-large | 0.37B | monolingual mạnh | cần word-seg; thua XLM-R trên ViMedNER |
+| ViPubmedT5 (220M) | 0.22B | SOTA acrDrAid/ViMedNLI → dùng **giãn viết tắt** | seq2seq, không lý tưởng cho token-NER |
+
+**Vị trí ký tự:** đề chấm theo **offset ký tự trên RAW text**. Cả **XLM-R** (SentencePiece) và **ViHealthBERT-syllable** đều cho `return_offsets_mapping=True` → `(char_start,char_end)` trực tiếp trên raw, **không cần VnCoreNLP**. Chỉ bản ViHealthBERT-**word** mới cần word-seg + ánh xạ offset ngược → **tránh dùng cho bài này**. Ensemble 2 backbone: gộp ở mức **span/char** (`ensemble.py`) nên khác tokenizer vẫn hợp nhất được.
 
 ---
 

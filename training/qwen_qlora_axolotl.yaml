@@ -1,0 +1,57 @@
+# qwen_qlora_axolotl.yaml — PHASE 2 (phương án AXOLOTL thay cho TRL)
+# Chạy:  accelerate launch -m axolotl.cli.train qwen_qlora_axolotl.yaml
+# Cài  :  pip install "axolotl[flash-attn,deepspeed]"   (bản mới nhất)
+
+base_model: Qwen/Qwen2.5-7B-Instruct
+model_type: AutoModelForCausalLM
+tokenizer_type: AutoTokenizer
+
+# ---- QLoRA 4-bit ----
+load_in_4bit: true
+adapter: qlora
+lora_r: 32
+lora_alpha: 32
+lora_dropout: 0.05
+lora_target_modules:
+  - q_proj
+  - k_proj
+  - v_proj
+  - o_proj
+  - gate_proj
+  - up_proj
+  - down_proj
+
+# ---- dữ liệu: chat-format từ training/llm_data.py ----
+# mỗi dòng: {"messages":[{"role":"system"/"user"/"assistant","content":...}]}
+datasets:
+  - path: data/sft.jsonl
+    type: chat_template
+    field_messages: messages
+    roles_to_train: ["assistant"]      # chỉ học phần assistant (giống assistant_only_loss)
+
+chat_template: qwen_25            # dùng template Qwen2.5
+dataset_prepared_path: last_run_prepared
+val_set_size: 0.02
+output_dir: ckpt/qwen-medner-lora-axolotl
+
+sequence_len: 2048
+sample_packing: false             # tắt để mask assistant chuẩn
+pad_to_sequence_len: true
+
+# ---- huấn luyện ----
+gradient_accumulation_steps: 8
+micro_batch_size: 2
+num_epochs: 3
+optimizer: adamw_bnb_8bit
+lr_scheduler: cosine
+learning_rate: 0.0002
+warmup_ratio: 0.03
+bf16: auto
+tf32: true
+gradient_checkpointing: true
+flash_attention: true
+logging_steps: 10
+saves_per_epoch: 1
+weight_decay: 0.0
+special_tokens:
+  pad_token: "<|endoftext|>"

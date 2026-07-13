@@ -1,0 +1,23 @@
+# requirements-max.txt — stack train bản MAX (Phase 2 LLM + Phase 3 retriever)
+# Chạy trên GPU. Ghim khoảng version đã kiểm API (điều chỉnh theo CUDA của bạn).
+
+# --- chung ---
+torch>=2.3
+transformers>=4.44
+datasets>=2.20
+accelerate>=0.33
+
+# --- Phase 2: LoRA/QLoRA SFT (Qwen2.5-7B) ---
+trl>=0.12            # SFTConfig + SFTTrainer + assistant_only_loss + peft_config
+peft>=0.12
+bitsandbytes>=0.43   # QLoRA 4-bit
+# (tùy chọn) axolotl thay cho TRL:
+# axolotl[flash-attn,deepspeed]
+
+# --- Phase 3: retriever (BGE-m3) ---
+sentence-transformers>=3.0
+numpy>=1.24
+# faiss-gpu       # (tùy chọn) index nhanh hơn cho search KB lớn
+
+# --- phục vụ inference nhanh (tùy chọn) ---
+# vllm>=0.5       # serve Qwen2.5-7B + LoRA nhanh hơn transformers.generate
